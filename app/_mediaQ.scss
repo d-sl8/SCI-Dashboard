@@ -1,0 +1,21 @@
+//Tablet layout
+@media only screen and (max-width: 770px) {
+
+      h2 {
+        text-align: center;
+    }
+    .dash-bttn {
+        float:none;
+        width: 100%;
+        padding: 25px 0;
+    }
+
+}
+
+//Mobile layout
+@media only screen and (max-width: 550px) {
+    header h1 {
+        display: block;
+        text-align: center;
+    }
+}

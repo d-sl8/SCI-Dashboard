@@ -85,7 +85,6 @@ footer {
     float: none;
     width: 100%;
     padding: 25px 0;
-    font-size: 135%;
   }
 }
 
@@ -93,7 +92,6 @@ footer {
   header h1 {
     display: block;
     text-align: center;
-    font-size: 100%;
   }
 }
 /*# sourceMappingURL=styles.css.map */
